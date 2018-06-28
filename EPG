@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/18 -- Jan van Straaten" generator-info-url="http://www.servercare.nl">
+  <channel id="MOVIE EXTRA">
+    <display-name lang="en">MOVIE EXTRA</display-name>
+    <url>http://www.yourtv.com.au</url>
+  </channel>
+  <channel id="ORF eins">
+    <display-name lang="en">ORF eins</display-name>
+    <url>http://www.tv-guide.upc.at</url>
+  </channel>
+  <channel id="VTM">
+    <display-name lang="nl">VTM</display-name>
+    <url>http://www.yelo.be</url>
+  </channel>
+  <channel id="2BE">
+    <display-name lang="nl">2BE</display-name>
+    <url>http://www.mijn-tv-gids.be</url>
+  </channel>
+  <channel id="RTBF 1">
+    <display-name lang="fr">RTBF 1</display-name>
+    <url>http://www.mon-programme-tv.be</url>
+  </channel>
+  <channel id="Ketnet">
+    <display-name lang="fr">Ketnet</display-name>
+    <url>http://www.moustique.be</url>
+  </channel>
+  <channel id="één">
+    <display-name lang="nl">één</display-name>
+    <url>http://www.humo.be</url>
+  </channel>
+  <channel id="VTM-zeta">
+    <display-name lang="nl">VTM-zeta</display-name>
+    <url>http://www.zita.be</url>
+  </channel>
+  <channel id="VT4.be">
+    <display-name lang="iv">VT4</display-name>
+    <url>http://www.mobistartv.be</url>
+  </channel>
+  <channel id="HTV1-tvprofil">
+    <display-name lang="hr">HTV1</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.hagah.com.br.net</url>
+  </channel>
+  <channel id="TV Bahia">
+    <display-name lang="pt">TV Bahia</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV TEM - SÃO JOSÉ DO RIO PRETO">
+    <display-name lang="pt">TV TEM - SÃO JOSÉ DO RIO PRETO</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="hr">TV2</display-name>
+    <url>http://www.port.hr</url>
+  </channel>
+  <channel id="HTV1-mojtv">
+    <display-name lang="hr">HTV1</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="ČT1_cz">
+    <display-name lang="cs">ČT1_cz</display-name>
+    <url>http://www.port.cz</url>
+  </channel>
+  <channel id="DR1">
+    <display-name lang="da">DR1</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="Kanal5.dk">
+    <display-name lang="da">Kanal5</display-name>
+    <url>http://www.ontv.dk</url>
+  </channel>
+  <channel id="DR1-tvtid">
+    <display-name lang="da">DR1-tvtid</display-name>
+    <url>http://www.tvtid.tv2.dk</url>
+  </channel>
+  <channel id="YLE TV1">
+    <display-name lang="fi">YLE TV1</display-name>
+    <url>http://www.telvis.fi</url>
+  </channel>
+  <channel id="Canal+ Cinéma">
+    <display-name lang="fr">Canal+ Cinéma</display-name>
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="TF1">
+    <display-name lang="fr">TF1</display-name>
+    <url>http://www.tvtv.fr</url>
+  </channel>
+  <channel id="France 3 [HD]">
+    <display-name lang="fr">France 3 [HD]</display-name>
+    <url>http://www.skysiertv.com</url>
+  </channel>
+  <channel id="France 2">
+    <display-name lang="fr">France 2</display-name>
+    <url>http://www.fr.tv.yahoo.com</url>
+  </channel>
+  <channel id="Canal+Cinéma">
+    <display-name lang="fr">Canal+Cinéma</display-name>
+    <url>http://www.tv.voila.fr</url>
+  </channel>
+  <channel id="FRANCE 3 fra">
+    <display-name lang="fr">FRANCE 3</display-name>
+    <url>http://www.canalsat.fr</url>
+  </channel>
+  <channel id="Das Erste">
+    <display-name lang="de">Das Erste</display-name>
+    <url>http://www.tvtv.de</url>
+  </channel>
+  <channel id="WDR">
+    <display-name lang="de">WDR</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel>
+  <channel id="zdf">
+    <display-name lang="de">zdf</display-name>
+    <url>http://www.tvinfo.de</url>
+  </channel>
+  <channel id="sixx">
+    <display-name lang="iv">sixx</display-name>
+    <url>http://www.tvspielfilm.de</url>
+  </channel>
+  <channel id="novacinema1">
+    <display-name lang="el">novacinema1</display-name>
+    <url>http://www.nova.gr</url>
+  </channel>
+  <channel id="cid=31">
+    <display-name lang="el">Πρόγραμμα τηλεόρασης Nova Cinema 1</display-name>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="902tv">
+    <display-name lang="el">902 TV</display-name>
+    <url>http://www.902.gr</url>
+  </channel>
+  <channel id="bluesky">
+    <display-name lang="el">Blue Sky</display-name>
+    <url>http://www.blueskytv.gr</url>
+  </channel>
+  <channel id="rik2">
+    <display-name lang="el">ΡΙΚ ΔΥΟ</display-name>
+    <url>http://www.cybc.com.cy</url>
+  </channel>
+  <channel id="et1">
+    <display-name lang="el">ET1</display-name>
+    <url>http://www.palo.gr</url>
+  </channel>
+  <channel id="sunny">
+    <display-name lang="el">SUNNY</display-name>
+    <url>http://www.sunnychannel.tv</url>
+  </channel>
+  <channel id="net-dig">
+    <display-name lang="el">NET</display-name>
+    <url>http://www.tv.pathfinder.gr</url>
+  </channel>
+  <channel id="HMC 1">
+    <display-name lang="zh">HMC 1</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="m1">
+    <display-name lang="hu">m1</display-name>
+    <url>http://www.port.hu</url>
+  </channel>
+  <channel id="m1-upc">
+    <display-name lang="nl">m1-upc</display-name>
+    <url>http://www.tavrogzito.upc.hu</url>
+  </channel>
+  <channel id="FILMBOXEXTRA">
+    <display-name lang="hu">FILMBOXEXTRA</display-name>
+    <url>http://www.musor.tv</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="is">History Channel</display-name>
+    <url>http://www.skjarinn.is</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="is">Nat Geo Wild</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="STOD2">
+    <display-name lang="is">STOD2</display-name>
+    <url>http://www.vodafone.is</url>
+  </channel>
+  <channel id="ITV2">
+    <display-name lang="de">ITV2</display-name>
+    <url>http://www.tv-guide.upc.ie</url>
+  </channel>
+  <channel id="Commedy">
+    <display-name lang="en">Commedy</display-name>
+    <url>http://www.entertainment.ie</url>
+  </channel>
+  <channel id="Channel 1">
+    <display-name lang="he">Channel 1</display-name>
+    <url>http://www.tv.walla.co.il</url>
+  </channel>
+  <channel id="לוח שידורים ערוץ">
+    <display-name lang="he">לוח שידורים ערוץ</display-name>
+    <url>http://www.isramedia.net</url>
+  </channel>
+  <channel id="Rai Uno">
+    <display-name lang="it">Rai Uno</display-name>
+    <url>http://www.it.tv.yahoo.com</url>
+  </channel>
+  <channel id="RaiTre">
+    <display-name lang="it">RaiTre</display-name>
+    <url>http://www.my.movies.it</url>
+  </channel>
+  <channel id="rai movie">
+    <display-name lang="it">rai movie</display-name>
+    <url>http://www.tv.zam.it</url>
+  </channel>
+  <channel id="RaisatCinema.it">
+    <display-name lang="it">Rai Movie</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Rai 1">
+    <display-name lang="it">Rai 1</display-name>
+    <url>http://www.rai.it</url>
+  </channel>
+  <channel id="LTV1">
+    <display-name lang="lt">LTV1</display-name>
+    <url>http://www.tv24.lt</url>
+  </channel>
+  <channel id="Nederland 1">
+    <display-name lang="nl">Nederland 1</display-name>
+    <url>http://www.tvgids.nl</url>
+  </channel>
+  <channel id="Nederland 2">
+    <display-name lang="nl">Nederland 2</display-name>
+    <url>http://www.gids.publiekeomroep.nl</url>
+  </channel>
+  <channel id="BVN">
+    <display-name lang="nl">BVN</display-name>
+    <url>http://www.tvtv.nl</url>
+  </channel>
+  <channel id="Film1-action">
+    <display-name lang="nl">Film1 Action</display-name>
+    <url>http://www.film1.nl</url>
+  </channel>
+  <channel id="Sport1HD.nl">
+    <display-name lang="nl">Sport1 HD</display-name>
+    <url>http://www.sport1.nl</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="nl">Disney Channel</display-name>
+    <url>http://www.disney.nl</url>
+  </channel>
+  <channel id="RTL 4">
+    <display-name lang="nl">RTL 4</display-name>
+    <url>http://www.tvgids.upc.nl</url>
+  </channel>
+  <channel id="TV ONE">
+    <display-name lang="en">TV-ONE</display-name>
+    <url>http://www.nz.entertainment.yahoo.com</url>
+  </channel>
+  <channel id="NRK 1">
+    <display-name lang="nb">NRK 1</display-name>
+    <url>http://www.sol.no</url>
+  </channel>
+  <channel id="TV1000 Action">
+    <display-name lang="nb">TV1000 Action</display-name>
+    <url>http://www.vg.no</url>
+  </channel>
+  <channel id="TVP 1">
+    <display-name lang="pl">TVP 1</display-name>
+    <url>http://www.programtv.interia.pl</url>
+  </channel>
+  <channel id="TVP 2">
+    <display-name lang="pl">TVP 2</display-name>
+    <url>http://www.tv.wp.pl</url>
+  </channel>
+  <channel id="CANAL+">
+    <display-name lang="pl">CANAL+</display-name>
+    <url>http://www.teleman.pl</url>
+  </channel>
+  <channel id="Polsat">
+    <display-name lang="pl">Polsat</display-name>
+    <url>http://www.nagrywanie.upc.pl</url>
+  </channel>
+  <channel id="RTP1.meo">
+    <display-name lang="pt">RTP1</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RTP 1.Portal">
+    <display-name lang="pt">RTP1</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <channel id="RTP1">
+    <display-name lang="pt">RTP1</display-name>
+    <url>http://www.zon.pt</url>
+  </channel>
+  <channel id="AXN-cabo">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="Antena 1">
+    <display-name lang="ro">Antena 1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR 2">
+    <display-name lang="ro">TVR 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="ProTV">
+    <display-name lang="ro">ProTV</display-name>
+    <url>http://www.roportal.ro</url>
+  </channel>
+  <channel id="RTV1">
+    <display-name lang="sr">RTV1</display-name>
+    <url>http://www.port.rs</url>
+  </channel>
+  <channel id="RTS Satelit">
+    <display-name lang="sr">RTS Satelit</display-name>
+    <url>http://www.rts.rs</url>
+  </channel>
+  <channel id="STAR Movies HD">
+    <display-name lang="en">STAR Movies HD</display-name>
+    <url>http://www.starhub.com.en</url>
+  </channel>
+  <channel id="STAR Chinese Movies">
+    <display-name lang="zh">STAR Chinese Movies</display-name>
+    <url>http://www.starhub.com.zh</url>
+  </channel>
+  <channel id="Channel 5">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.entertainment.xin.msn.com</url>
+  </channel>
+  <channel id="ČT1">
+    <display-name lang="sk">ČT1</display-name>
+    <url>http://www.port.sk</url>
+  </channel>
+  <channel id="TV Slovenija 2.moj">
+    <display-name lang="sl">TV Slovenija 2</display-name>
+    <url>http://www.mojportal.si</url>
+  </channel>
+  <channel id="SLO 1">
+    <display-name lang="sl">SLO 1</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="TV Slovenija 2.rtv">
+    <display-name lang="sl">TV Slovenija 2</display-name>
+    <url>http://www.rtvslo.si</url>
+  </channel>
+  <channel id="Top One">
+    <display-name lang="en">Top One</display-name>
+    <url>http://www.toptv.co.za</url>
+  </channel>
+  <channel id="M-Net">
+    <display-name lang="en">M-Net</display-name>
+    <url>http://www.dstv.com</url>
+  </channel>
+  <channel id="La 2">
+    <display-name lang="es">La 2</display-name>
+    <url>http://www.laguiatv.com</url>
+  </channel>
+  <channel id="La1">
+    <display-name lang="es">La 1</display-name>
+    <url>http://www.sincroguia.tv</url>
+  </channel>
+  <channel id="CP">
+    <display-name lang="es">Canal+</display-name>
+    <url>http://www.canalplus.es</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.tvtv.es</url>
+  </channel>
+  <channel id="laSexta">
+    <display-name lang="es">laSexta</display-name>
+    <url>http://www.elmundo.es</url>
+  </channel>
+  <channel id="Canal Gasteiz">
+    <display-name lang="es">Canal Gasteiz</display-name>
+    <url>http://www.canalgasteiz.com</url>
+  </channel>
+  <channel id="Hamaika">
+    <display-name lang="eu">Hamaika</display-name>
+    <url>http://www.hamaika.tv</url>
+  </channel>
+  <channel id="ETBSAT">
+    <display-name lang="eu">ETBSAT</display-name>
+    <url>http://www.eitb.com</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.axn.es</url>
+  </channel>
+  <channel id="Calle 13">
+    <display-name lang="es">Calle 13</display-name>
+    <url>http://www.calle13.es</url>
+  </channel>
+  <channel id="SyFy">
+    <display-name lang="es">SyFy</display-name>
+    <url>http://www.syfy.es</url>
+  </channel>
+  <channel id="paramountchannel">
+    <display-name lang="es">Paramount Channel</display-name>
+    <url>http://www.paramountchannel.es</url>
+  </channel>
+  <channel id="SVT2">
+    <display-name lang="sv">SVT2</display-name>
+    <url>http://www.dagenstv.com</url>
+  </channel>
+  <channel id="SVT1">
+    <display-name lang="sv">SVT1</display-name>
+    <url>http://www.svt.se</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="sv">TV3</display-name>
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="SVT 1">
+    <display-name lang="se">SVT 1</display-name>
+    <url>http://www.ontv.se</url>
+  </channel>
+  <channel id="SF 1">
+    <display-name lang="de">SF 1</display-name>
+    <url>http://www.teleboy.ch</url>
+  </channel>
+  <channel id="SF zwei">
+    <display-name lang="de">SF zwei</display-name>
+    <url>http://www.tvtv.ch</url>
+  </channel>
+  <channel id="Moviemax Family">
+    <display-name lang="tr">Moviemax Family</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BBC1">
+    <display-name lang="en">BBC1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BBC1_RadioTimes">
+    <display-name lang="en">BBC1 RadioTimes</display-name>
+    <url>http://www.radiotimes.com</url>
+  </channel>
+  <channel id="BBC1_index-only">
+    <display-name lang="en">BBC1 RadioTimes</display-name>
+    <url>http://www.radiotimes.com.index-only</url>
+  </channel>
+  <channel id="BBC One">
+    <display-name lang="en">BBC One</display-name>
+    <url>http://www.tvtv.co.uk</url>
+  </channel>
+  <channel id="BFBS">
+    <display-name lang="en">BFBS</display-name>
+    <url>http://www.bfbs.com</url>
+  </channel>
+  <channel id="ITV 1">
+    <display-name lang="en">ITV 1</display-name>
+    <url>http://www.guardian.co.uk</url>
+  </channel>
+  <channel id="CBS Drama">
+    <display-name lang="en">CBS Drama</display-name>
+    <url>http://www.mydigiguide.com</url>
+  </channel>
+  <channel id="BBC2">
+    <display-name lang="en">BBC2</display-name>
+    <url>http://www.uk-tvgenius.com</url>
+  </channel>
+  <channel id="Channel 4">
+    <display-name lang="en">Channel 4</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="TMCeHD">
+    <display-name lang="en">MovieEastHDr</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="OSN Movies HD">
+    <display-name lang="en">OSN Movies HD</display-name>
+    <url>http://www.osnetwork.com</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="en">Discovery Channel</display-name>
+    <url>http://www.yourdiscovery.com</url>
+  </channel>
+  <channel id="ABC">
+    <display-name lang="en">ABC</display-name>
+    <url>http://www.tvguide.com.National-Eastern</url>
+  </channel>
+  <channel id="Hong Kong">
+    <display-name lang="en">Hong Kong</display-name>
+    <url>http://www.bbc.co.uk</url>
+  </channel>
+  <channel id="Singapore">
+    <display-name lang="en">Singapore</display-name>
+    <url>http://www.australianetwork.com</url>
+  </channel>
+  <channel id="asia">
+    <display-name lang="en">asia</display-name>
+    <url>http://www.radioaustralia.net.au</url>
+  </channel>
+  <channel id="ortm-mali">
+    <display-name lang="fr">ortm-mali</display-name>
+    <url>http://www.lebouquetafricain.com</url>
+  </channel>
+  <channel id="Da-Vinci.en">
+    <display-name lang="en">Da Vinci Learning</display-name>
+    <url>http://www.da-vinci-learning.com</url>
+  </channel>
+  <channel id="ACTION-afrique">
+    <display-name lang="fr">ACTION</display-name>
+    <url>http://www.canalplus-afrique.com.mali</url>
+  </channel>
+  <channel id="ACTION-reunion">
+    <display-name lang="fr">ACTION</display-name>
+    <url>http://www.canalplus-reunion.com</url>
+  </channel>
+  <channel id="ARTE">
+    <display-name lang="fr">ARTE</display-name>
+    <url>http://www.canalplus-caraibes.com.martinique</url>
+  </channel>
+</tv>
